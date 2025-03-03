@@ -5910,12 +5910,12 @@
 		)
 		(uuid "9f9ff232-ef19-462a-b437-36c8bf5124ad")
 	)
-	(text "challenge template 0.1.0"
+	(text "Quentin Dela Torre - Status Module 0.1.0"
 		(exclude_from_sim no)
-		(at 493.014 386.842 0)
+		(at 478.79 385.572 0)
 		(effects
 			(font
-				(size 4 4)
+				(size 3.048 3.048)
 			)
 			(justify left bottom)
 		)
