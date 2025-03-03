@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XFL4020_152MEC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "XFL4020-152MEC" (!) = "", "XFL4020152MEC", "Other", "994-XFL4020-152MEC", "https://www.mouser.co.uk/ProductDetail/Coilcraft/XFL4020-152MEC?qs=zCSbvcPd3pak5QYA2uujRA%3D%3D", "COILCRAFT - XFL4020-152MEC - Power Inductor (SMD), 1.5 H, 9.1 A, Shielded, 4.1 A, XFL4020", "https://www.coilcraft.com/getmedia/50632d43-da1b-4cdb-8ab4-3029cab51df3/xfl4020.pdf", "2.1 mm"
+END_PART
+
+END.

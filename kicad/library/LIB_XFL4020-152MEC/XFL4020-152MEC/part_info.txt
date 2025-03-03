@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XFL4020-152MEC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.5
+Released=2022-11-29 09:30:14
+Downloaded=2024-12-23 22:35:02
+3D=Y

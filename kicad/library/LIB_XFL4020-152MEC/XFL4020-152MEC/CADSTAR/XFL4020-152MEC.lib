@@ -1,0 +1,16 @@
+.XFL4020-152MEC :1 ;COILCRAFT - XFL4020-152MEC - Power Inductor (SMD), 1.5 H, 9.1 A, Shielded, 4.1 A, XFL4020
+XFL4020152MEC
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN XFL4020-152MEC
+~!Mouser Part Number (994-XFL4020-152MEC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/XFL4020-152MEC?qs=zCSbvcPd3pak5QYA2uujRA%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (XFL4020-152MEC)
+~!Link Datasheet (https://www.coilcraft.com/getmedia/50632d43-da1b-4cdb-8ab4-3029cab51df3/xfl4020.pdf)
+~!Height (2.1mm)
+~!3D_Model (XFL4020-152MEC)
+XFL4020-152MEC
+1.1!U 2.1!U 
