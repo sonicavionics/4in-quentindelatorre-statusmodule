@@ -6405,6 +6405,10 @@
 		(uuid "a2476a6f-4e09-4085-9bd3-24169615d2f6")
 	)
 	(no_connect
+		(at 275.59 140.97)
+		(uuid "af70a038-52bf-4752-aa1c-f737bd357a9a")
+	)
+	(no_connect
 		(at 326.39 214.63)
 		(uuid "ba3a9094-ed22-43ef-84e6-28ef61bf55ac")
 	)
@@ -6607,16 +6611,6 @@
 			(type default)
 		)
 		(uuid "154b0d87-0628-4f17-a602-808568339d44")
-	)
-	(wire
-		(pts
-			(xy 256.54 140.97) (xy 275.59 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "161fce9a-c57a-415b-aecb-00167205a01b")
 	)
 	(wire
 		(pts
@@ -7170,16 +7164,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 168.91) (xy 87.63 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ac4cffc-e852-45df-b208-8ecf6753d629")
-	)
-	(wire
-		(pts
 			(xy 285.75 120.65) (xy 285.75 125.73)
 		)
 		(stroke
@@ -7540,7 +7524,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 168.91) (xy 115.57 168.91)
+			(xy 102.87 168.91) (xy 115.57 168.91)
 		)
 		(stroke
 			(width 0)
@@ -8527,26 +8511,6 @@
 			(justify left bottom)
 		)
 		(uuid "0dfdca80-4a07-451c-95fe-41f487e37c27")
-	)
-	(label "RUN"
-		(at 256.54 140.97 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1055ec6e-a2a5-43e2-b455-84a79216f733")
-	)
-	(label "USB_BOOT_S"
-		(at 73.66 168.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2a72def7-5677-4ad5-ad3a-be17477686a6")
 	)
 	(label "QSPI_SS"
 		(at 262.89 158.75 0)
@@ -10840,74 +10804,6 @@
 			(project ""
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 91.44 168.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "42bc4246-8329-42a1-9086-c5e26cd72533")
-		(property "Reference" "R4"
-			(at 91.44 162.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 91.44 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 91.44 170.688 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 91.44 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 91.44 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de98f89c-b092-4d7d-ad29-71cc270f0e6c")
-		)
-		(pin "2"
-			(uuid "7395b322-4e3d-4410-89df-ee323071ee24")
-		)
-		(instances
-			(project ""
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "R4")
 					(unit 1)
 				)
 			)
